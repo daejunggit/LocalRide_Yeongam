@@ -1,0 +1,6 @@
+{
+  "name": "모임 QR 출석부 & 티셔츠 분출 관리 시스템",
+  "description": "QR코드와 휴대폰 뒷자리 4자리로 체크하는 모임 탑승 출석부, 티셔츠 사이즈 확인 및 분출 관리, 오프라인 매장 이벤트 당첨 기념품 수령, Google Apps Script & 스프레드시트 연동 지원 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
